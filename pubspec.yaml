@@ -1,0 +1,13 @@
+name: photo_journal
+description: A small photo journal app with common store configuration mistakes, used to demo storehound.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ^3.8.0
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^10.0.0
+  firebase_analytics: ^12.0.0
+  image_picker: ^1.0.0
+  local_auth: ^2.3.0
